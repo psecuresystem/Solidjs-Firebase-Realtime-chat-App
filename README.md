@@ -2,7 +2,7 @@
 
 This is a solid.js + firebase realtime chat app. It includes auth, chatting and more.
 
-For a detailed tutorial on how to build it, checkout [this blog post](https://dev.to/psecuresystem/creating-a-real-time-chat-app-using-firebase-and-solid-js-5d2o)
+For a detailed tutorial on how to build it, checkout [this blog post](https://visiondaniels32.hashnode.dev/creating-a-real-time-chat-app-using-firebase-and-solid-js)
 
 To run the project do the following:
 
