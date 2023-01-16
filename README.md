@@ -15,3 +15,6 @@ yarn install
 # Setup your environment variables
 yarn dev
 ```
+
+## Demo
+![36182709-f6ce2e155c8c40c721d1ed4ac64d96fd](https://user-images.githubusercontent.com/92157374/212708248-2f3ddd9c-1d95-4b2d-930d-5bf742fef155.png)
