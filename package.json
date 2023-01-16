@@ -1,7 +1,7 @@
 {
   "name": "vite-template-solid",
   "version": "0.0.0",
-  "description": "",
+  "description": "Firebase based realtime chat app in solid",
   "scripts": {
     "start": "vite",
     "dev": "vite",
